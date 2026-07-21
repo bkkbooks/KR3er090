@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er090_000-jc.yaml, hash: 'sha256:09ddb21fd05f36dc3068a7681cd0512b871355d5533443f0e6b4dc4219b673ab'}
+  - {seq: 0, filename: KR3er090_000-jc.yaml, hash: 'sha256:0fc79f7c4ba092e960aab62176f90d7cdd118f2352e0e235324cbdcb1aaa9b1f'}
   - {seq: 1, filename: KR3er090_001-jc.yaml, hash: 'sha256:9ee84eedbe5686bb28a5733c1970aa3a85e52ba2dffe9037ddf464c348cf0fb2'}
   - {seq: 2, filename: KR3er090_002-jc.yaml, hash: 'sha256:71698a606112d731424369561150bbfd4747463534765abdb5d5bf2984f3b2d2'}
   - {seq: 3, filename: KR3er090_003-jc.yaml, hash: 'sha256:56d30d86bf9400576503e705c67b554c05092d9f168691e423ecb2f0fe44b30a'}
@@ -49,7 +49,7 @@ assets:
   - {seq: 29, filename: KR3er090_029-jc.yaml, hash: 'sha256:8e451405247e2fce59dd7a143a85582f31ebb2973f014c0bce7402aeadb1a42b'}
   - {seq: 30, filename: KR3er090_030-jc.yaml, hash: 'sha256:7b15cf4005528958264da5e73c107bf868dc8864caadbdc86126d9edc2dd8725'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er090_000-jc.markers.yaml, hash: 'sha256:f33f0ab01a6988bafb8cf4b363258881c93966148e52c6e97ceb9fcc926004d8'}
+  - {seq: 0, role: markers, filename: assets/KR3er090_000-jc.markers.yaml, hash: 'sha256:ef64c0247cb5fdbbc7beec3c78ac18488da1c584bb30513bfa16364a5dbc2971'}
   - {seq: 1, role: markers, filename: assets/KR3er090_001-jc.markers.yaml, hash: 'sha256:b6b2f84dd920bb441ddcfd663f2f524e58e39a158f717d6649a6d2add2d5a963'}
   - {seq: 2, role: markers, filename: assets/KR3er090_002-jc.markers.yaml, hash: 'sha256:43b96a4c7a2c09e72b6de1a50e75703fcbc98ed38b98b6a08d9a88af5db2f5d9'}
   - {seq: 3, role: markers, filename: assets/KR3er090_003-jc.markers.yaml, hash: 'sha256:c54154a91e3f85b7e423891b45e9ea1f0dfcd11a1cff266053ac5940360f8c69'}
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er090_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 673
   label: 序
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er090_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 673
     - 1003
   label: 校正千金翼方後序
@@ -20261,4 +20261,4 @@ table_of_contents:
   label: 咒童子令說鬼姓字第二十二
   type: section
   level: 2
-hash: sha256:092a3bd7958d31d5ce777c70dac4670617e65dfa33543bc0ed74926103c96170
+hash: sha256:116c5a4b8bb6af537d608913f83d4bc5ac5fef18021d3a58024e2c9aa6574517
